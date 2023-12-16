@@ -5,7 +5,7 @@ The FrugalGPT framework offers a collection of techniques for _building LLM appl
 
 ## 🚀 Getting Started
 
-You can directly run the  [Google Colab Notebook](https://colab.research.google.com/drive/1LM-Wq-u87VI4TKM4thpnwepnOxTAtWaM?authuser=1#scrollTo=a95a1eec) to experience FrugalGPT. You don't even need API keys to get started with it.
+You can directly run the  [Google Colab Notebook](https://colab.research.google.com/drive/1LM-Wq-u87VI4TKM4thpnwepnOxTAtWaM) to experience FrugalGPT. You don't even need API keys to get started with it.
 
 Once you go through the notebook, you'll be ready to build your own LLM applcations with FrugalGPT! 
 
